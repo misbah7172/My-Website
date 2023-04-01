@@ -1,0 +1,32 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+}
+h2{
+    font-size: 200%;
+}
+h1{
+    font-size: 300%;
+}
+#jack-color{
+    color: rgb(174, 23, 116);
+}
+.hireme{
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(167, 43, 97);
+    padding: 2% 3%;
+}
+section{
+    border: 500px;
+    padding-top: 100px;
+}
+.half{
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin-left: 5%;
+}
+.half img{
+    width: 100%;
+}
