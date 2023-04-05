@@ -28,5 +28,12 @@ section{
     margin-left: 5%;
 }
 .half img{
-    width: 100%;
+    width: 80%;
+}
+.top{
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+}
+#secHalf{
+    padding: 40px;
 }
