@@ -15,11 +15,12 @@ h1{
     color: white;
     border-radius: 5px;
     background-color: rgb(167, 43, 97);
+    text-decoration: none;
     padding: 2% 3%;
 }
 section{
     border: 500px;
-    padding-top: 100px;
+    padding-top: 150px;
 }
 .half{
     width: 40%;
@@ -36,4 +37,21 @@ section{
 }
 #secHalf{
     padding: 40px;
+}
+.biography{
+    color: aliceblue;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg , red,rgb(247, 163, 163));
+    text-decoration: none;
+    padding: 2% 3%;
+}
+#exp{
+    padding-top: 35%;
+    text-align: left; 
+}
+.phosize img{float: left;
+    width: 32%;
+}
+#shade{
+    color: rgb(57, 57, 57);
 }
